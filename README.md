@@ -4,7 +4,7 @@ Hello! I'm Harold and I'm a self-taught aspiring programmer. I specialize in Pyt
 - 👀 I’m interested in making websites and phone applications.
 - ✨ I’m a musician that specializes in Voice Performance
 
-![ArchaeotheriumSapienter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchaeotheriumSapienter&count_private=true)
+![ArchaeotheriumSapienter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchaeotheriumSapienter&count_private=true&show_icons=true)
 
 
 <!---
