@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @ArchaeotheriumSapienter
-- 👀 I’m interested in ... learning self-coding for it to be my career / music / gaming 
-- 🌱 I’m currently learning ... Python 
+Hello! I'm Harold and I'm a self-taught aspiring programmer. I specialize in Python with great interest in finances, investments, cryptocurrency, Data Analysis, and app-making. 
+
+- 📚 I'm currently learning open-source contributions.
+- 👀 I’m interested in making websites and phone applications.
+- ✨ I’m a musician that specializes in Voice Performance
 
 <!---
 ArchaeotheriumSapienter/ArchaeotheriumSapienter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
