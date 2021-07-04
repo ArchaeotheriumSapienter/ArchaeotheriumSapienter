@@ -1,4 +1,4 @@
-Hello! I'm Harold and I'm a self-taught aspiring programmer. I specialize in Python with great interest in finances, investments, cryptocurrency, Data Analysis, and app-making. 
+Hello! I'm Harold and I'm a self-taught aspiring programmer. I specialize in Python with great interest in finances, investments, cryptocurrency, data analysis, and app-making. 
 
 - 📚 I'm currently learning open-source contributions.
 - 👀 I’m interested in making websites and phone applications.
