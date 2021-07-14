@@ -29,11 +29,11 @@
 
 https://github-readme-streak-stats.herokuapp.com/?user=archaeotheriumsapienter&theme=react"
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ArchaeotheriumSapienter/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArchaeotheriumSapienter&count_private=true&show_icons=true?&theme=react&include_all_commits=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<a href="https://github.com/ArchaeotheriumSapienter/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchaeotheriumSapienter&layout=compact&theme=react" />
 </a>
 
 <!---
