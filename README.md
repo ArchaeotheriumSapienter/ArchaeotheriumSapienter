@@ -31,7 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archaeotheriumsapienter&show_icons=true&locale=en" alt="archaeotheriumsapienter" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archaeotheriumsapienter&" alt="archaeotheriumsapienter" /></p>
 
 
 <a href="https://github.com/ArchaeotheriumSapienter">
