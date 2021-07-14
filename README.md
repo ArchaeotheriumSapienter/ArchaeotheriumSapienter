@@ -4,7 +4,7 @@ Hello! I'm Harold and I'm a self-taught aspiring programmer. I specialize in Pyt
 - 👀 I’m interested in making websites and phone applications.
 - ✨ I’m a musician that specializes in Voice Performance
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchaeotheriumSapienter&layout=compact)](https://github.com/ArchaeotheriumSapienter/github-readme-stats)
 
 <a href="https://github.com/ArchaeotheriumSapienter">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArchaeotheriumSapienter&count_private=true&show_icons=true?&theme=react&include_all_commits=true" />
