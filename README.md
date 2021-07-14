@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="<img src="https://img.icons8.com/plasticine/100/000000/bash.png"/>" alt="bash" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="<img src="<a href="https://www.icons8.com/icon/50ZQHdJTmPqw/bash">Bash icon by Icons8</a>"/>" alt="bash" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
