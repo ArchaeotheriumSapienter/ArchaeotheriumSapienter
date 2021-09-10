@@ -32,9 +32,6 @@
 <a href="https://github.com/ArchaeotheriumSapienter/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArchaeotheriumSapienter&count_private=true&show_icons=true?&theme=react&include_all_commits=true" />
 </a>
-<a href="https://github.com/ArchaeotheriumSapienter/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchaeotheriumSapienter&layout=compact&theme=react" />
-</a>
 
 <!---
 ArchaeotheriumSapienter/ArchaeotheriumSapienter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
