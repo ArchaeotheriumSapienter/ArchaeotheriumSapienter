@@ -33,8 +33,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArchaeotheriumSapienter&count_private=true&show_icons=true?&theme=react&include_all_commits=true" />
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArchaeotheriumSapienter&theme=react)](https://git.io/streak-stats)
-
 <!---
 ArchaeotheriumSapienter/ArchaeotheriumSapienter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
