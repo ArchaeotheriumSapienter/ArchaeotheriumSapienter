@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harold</h1>
 <h3 align="center">I'm a self-taught aspiring programmer. I specialize in Python with great interest in finances, investments, cryptocurrency, data analysis, and app-making.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archaeotheriumsapienter&label=Profile%20views&color=0e75b6&style=flat" alt="archaeotheriumsapienter" /> </p>
 
 - 🔭 I’m currently working on **open-source projects**
 
