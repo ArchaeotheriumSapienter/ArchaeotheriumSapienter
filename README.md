@@ -23,8 +23,8 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1168](https://github.com/bokeh/bokeh/pull/11698) in [bokeh/bokeh](https://github.com/bokeh/bokeh)
-2. 🎉 Merged PR [#70](https://github.com/ActivityWatch/docs/pull/70) in [ActivityWatch/docs](https://github.com/ActivityWatch/docs)
+1. 🗣 Commented on [#11698](https://github.com/bokeh/bokeh/issues/11698) in [bokeh/bokeh](https://github.com/bokeh/bokeh)
+2. 🗣 Commented on [#11698](https://github.com/bokeh/bokeh/issues/11698) in [bokeh/bokeh](https://github.com/bokeh/bokeh)
 <!--END_SECTION:activity-->
 
 ---
