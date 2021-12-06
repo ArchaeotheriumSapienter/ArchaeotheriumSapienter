@@ -27,12 +27,6 @@
 2. 🗣 Commented on [#11698](https://github.com/bokeh/bokeh/issues/11698) in [bokeh/bokeh](https://github.com/bokeh/bokeh)
 <!--END_SECTION:activity-->
 
----
-
-<a href="https://github.com/ArchaeotheriumSapienter/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArchaeotheriumSapienter&count_private=true&show_icons=true?&theme=react&include_all_commits=true" />
-</a>
-
 <!---
 ArchaeotheriumSapienter/ArchaeotheriumSapienter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
