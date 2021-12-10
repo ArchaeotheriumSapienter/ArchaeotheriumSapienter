@@ -25,7 +25,6 @@
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#11872](https://github.com/bokeh/bokeh/pull/11872) in [bokeh/bokeh](https://github.com/bokeh/bokeh)
 2. 🗣 Commented on [#11863](https://github.com/bokeh/bokeh/issues/11863) in [bokeh/bokeh](https://github.com/bokeh/bokeh)
-<!--END_SECTION:activity-->
 
 <!---
 ArchaeotheriumSapienter/ArchaeotheriumSapienter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
