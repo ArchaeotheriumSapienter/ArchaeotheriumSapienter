@@ -25,8 +25,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11872](https://github.com/bokeh/bokeh/issues/11872) in [bokeh/bokeh](https://github.com/bokeh/bokeh)
 2. 🗣 Commented on [#11872](https://github.com/bokeh/bokeh/issues/11872) in [bokeh/bokeh](https://github.com/bokeh/bokeh)
-3. 💪 Opened PR [#11872](https://github.com/bokeh/bokeh/pull/11872) in [bokeh/bokeh](https://github.com/bokeh/bokeh)
-4. 🗣 Commented on [#11863](https://github.com/bokeh/bokeh/issues/11863) in [bokeh/bokeh](https://github.com/bokeh/bokeh)
+3. 🗣 Commented on [#11872](https://github.com/bokeh/bokeh/issues/11872) in [bokeh/bokeh](https://github.com/bokeh/bokeh)
+4. 💪 Opened PR [#11872](https://github.com/bokeh/bokeh/pull/11872) in [bokeh/bokeh](https://github.com/bokeh/bokeh)
 5. 🗣 Commented on [#11863](https://github.com/bokeh/bokeh/issues/11863) in [bokeh/bokeh](https://github.com/bokeh/bokeh)
 <!--END_SECTION:activity-->
 
